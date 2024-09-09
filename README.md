@@ -1,2 +1,2 @@
-# Simeple_Calculator-
+# Simeple_Calculator
 Simeple Calculator using C language.
